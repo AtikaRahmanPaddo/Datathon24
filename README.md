@@ -7,6 +7,7 @@
 First, clone the repository to your server with:
 
 `git clone https://github.com/Emory-HITI/Datathon24.git`
+
 `cd Datathon24`
 
 Then, create a new branch where you can register your changes. For example, if you were in team3 you could use:
